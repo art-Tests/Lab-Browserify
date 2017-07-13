@@ -1,0 +1,21 @@
+{
+  "name": "lab-js-strategy",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "art"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {},
+  "dependencies": {
+    "chai": "^4.1.0"
+  }
+}
